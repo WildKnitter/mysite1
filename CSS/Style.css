@@ -1,0 +1,11 @@
+h1 {
+    color:blue;
+}
+#yoga {
+    color: firebrick;
+    font-weight: bold;
+}
+img {
+    float: left;
+    margin-right: 50px;
+}
